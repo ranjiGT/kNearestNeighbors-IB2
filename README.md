@@ -1,4 +1,4 @@
-# `kNearestNeighbors as Instance-based 2 classifier`
+# `kNearestNeighbors as Instance-based 2 classifier` http://ForTheBadge.com/images/badges/made-with-python.svg
 A py3 code that implements a 2-class kNN classifier with an IB2 created case base 
 
 ## Math path
