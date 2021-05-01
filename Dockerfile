@@ -10,4 +10,4 @@ COPY . .
 
 #RUN python3 kNN.py --data Example.csv
 
-CMD ["python3", "./NeuralNets.py"]
+CMD ["python3", "./kNN.py"]
