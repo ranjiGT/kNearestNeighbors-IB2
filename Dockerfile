@@ -8,6 +8,6 @@ RUN pip install --upgrade pip
 
 COPY . .
 
-#RUN python3 NeuralNets.py --data Example.csv
+#RUN python3 kNN.py --data Example.csv
 
 CMD ["python3", "./NeuralNets.py"]
